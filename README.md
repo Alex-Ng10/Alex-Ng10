@@ -2,6 +2,7 @@ Hello there! 👋 and Welcome!
 My name is **Alex Nguyen**. I am from **James Madison University** in Computer Science. 🧑‍💻
 
 **Skills**
+
 Fast Learner | Teamwork and Collaboration
 
 - 👋 I'm currently working on this page
