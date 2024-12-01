@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Alex-Ng10, I'm currently working on this page
+Hello there! 👋 and Welcome! 
+My name is **Alex Nguyen**. I am from **James Madison University** in Computer Science. 🧑‍💻
+
+**Skills**
+Fast Learner | Teamwork and Collaboration
+
+- 👋 I'm currently working on this page
 - 👀 I’m interested in all Computer related informations
-- 🌱 I’m currently learning Computer Science at James Madison University
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on diverse projects as well as getting experience on group and individual project, leading tasks but also making sure to apply the efforts among the differents Epics given.
-- 📫 How to reach me: Instagram: Alex._Ng10
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm an international student from currently in the USA for college.  
+- 📫 How to reach me: Instagram: Alex._ng10
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm an international student from France currently in the USA for college
 
 <!---
 Alex-Ng10/Alex-Ng10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
