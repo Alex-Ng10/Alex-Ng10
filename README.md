@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alex-Ng10
+- 👋 Hi, I’m @Alex-Ng10, I'm currently working on this page
 - 👀 I’m interested in all Computer related informations
 - 🌱 I’m currently learning Computer Science at James Madison University
 - 💞️ I’m looking to collaborate on diverse projects as well as getting experience on group and individual project, leading tasks but also making sure to apply the efforts among the differents Epics given.
