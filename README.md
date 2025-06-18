@@ -1,5 +1,5 @@
 Hello there! 👋 and Welcome! 
-My name is **Alex Nguyen**. I am from **James Madison University** in __Computer Science__. 🧑‍💻
+My name is **Alex Nguyen**. I am from **James Madison University** in **Computer Science**. 🧑‍💻
 
 I have a huge interest for experience and teamwork 🫱🏻‍🫲🏻 whether it is coding or solving explicit problems! Currently studying Java and C, and Software Engineering. 
 
