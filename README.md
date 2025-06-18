@@ -10,8 +10,7 @@ I have a huge interest for experience and teamwork 🫱🏻‍🫲🏻 whether i
 - C 
 - React
 - Node.js 
-- Software Engineering, and learning react and node.js. 
-
+- Software Engineering
 # Skills
 
 ## Fast Learner
