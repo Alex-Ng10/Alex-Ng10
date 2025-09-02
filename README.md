@@ -28,7 +28,9 @@ I have a huge interest for experience and teamwork 🫱🏻‍🫲🏻 whether i
 - 💞️ I’m looking to collaborate on diverse projects as well as getting experience on group and individual project, leading tasks but also making sure to apply the efforts among the differents Epics given.
   
 - 📫 How to reach me: Email: [My professional email](mailto:<alexngn05@gmail.com>)
-  
+
+- 💻 Some projects: [Rotten Avocados](https://github.com/JAM-Group-Project/Rotten-Avocados), 
+
 - 😄 Pronouns: He/Him
   
 - ⚡ Fun fact: I'm an international student from France currently in the USA for college
