@@ -27,7 +27,7 @@ I have a huge interest for experience and teamwork 🫱🏻‍🫲🏻 whether i
 ## Teamwork and Collaboration
 - 💞️ I’m looking to collaborate on diverse projects as well as getting experience on group and individual project, leading tasks but also making sure to apply the efforts among the differents Epics given.
   
-- 📫 How to reach me: Instagram: [Alex._ng10](https://www.instagram.com/alex._ng10/)
+- 📫 How to reach me: Email: [My professional email](mailto:<alexngn05@gmail.com>)
   
 - 😄 Pronouns: He/Him
   
