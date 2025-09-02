@@ -1,5 +1,5 @@
 ### Hello there! 👋 and Welcome! 
-My name is **Alex Nguyen**— I am currently studying at **James Madison University**. <br/> <br/>
+My name is **Alex Nguyen**. I am currently studying at **James Madison University**. <br/> <br/>
 I am an undergraduate in <ins>**Computer Science**.</ins> 🧑‍💻 <sup>Coding is actually fun! <sup>**only when you know what to do..**</sup></sup>
 
 I have a huge interest for experience and teamwork 🫱🏻‍🫲🏻 whether it is coding or solving problems!
