@@ -4,7 +4,7 @@ I am an undergraduate in <ins>**Computer Science**.</ins> 🧑‍💻 <sup>Codin
 
 I have a huge interest for experience and teamwork 🫱🏻‍🫲🏻 whether it is coding or solving problems!
 
-### I am Currently studying:
+### I am Currently studying: 
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -19,7 +19,7 @@ I have a huge interest for experience and teamwork 🫱🏻‍🫲🏻 whether i
 🥑 Beginner's mindset and curiosity
 # Skills
 
-## Fast Learner
+## Fast Learner <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
 - 👋 I'm currently working on this page
 
@@ -27,7 +27,7 @@ I have a huge interest for experience and teamwork 🫱🏻‍🫲🏻 whether i
 
 - 🌱 I’m currently interested and working on IPAs IOS tweaks 
 
-## Teamwork and Collaboration
+## Teamwork and Collaboration <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
 - 💞️ I’m looking to collaborate on diverse projects as well as getting experience on group and individual project, leading tasks but also making sure to apply the efforts among the differents Epics given.
   
 - 📫 How to reach me: Email: [My professional email](mailto:<alexngn05@gmail.com>)
