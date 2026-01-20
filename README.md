@@ -28,7 +28,7 @@ I have a huge interest for experience and teamwork 🫱🏻‍🫲🏻 whether i
   
 - 📫 How to reach me: Email: [My professional email](mailto:<alexngn05@gmail.com>)
 
-- 💻 Some projects: [Rotten Avocados](https://github.com/JAM-Group-Project/Rotten-Avocados), 
+- 💻 Some projects: [Rotten Avocados](https://github.com/JAM-Group-Project/Rotten-Avocados)
 
 - 😄 Pronouns: He/Him
   
